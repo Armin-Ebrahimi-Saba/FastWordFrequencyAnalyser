@@ -1,6 +1,6 @@
 # Fast Word Frequency Analyser
 Accelerated Word Frequency Analysis using
-CUDA
+CUDA. \
 The Word Frequency program with CUDA and OpenMP. Project aims to develop an advanced solution for
 efficiently analyzing the frequency of words in large datasets. The project will
 leverage NVIDIA's CUDA framework to harness the power of GPUs, surpassing the
